@@ -9,6 +9,11 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FootballLeague", "FootballL
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Template", "Template\Template.sqlproj", "{568B25C5-27A5-4618-AABF-7E3815CD2FF6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5721CD77-21A1-44AD-8DBA-24E7AAD417EE}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		PROD|Any CPU = PROD|Any CPU
